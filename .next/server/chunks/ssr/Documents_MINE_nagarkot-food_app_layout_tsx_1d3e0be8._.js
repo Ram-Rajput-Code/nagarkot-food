@@ -1,0 +1,3 @@
+module.exports=[70708,a=>{"use strict";var b=a.i(63276);function c({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{className:"antialiased",children:a})})}a.s(["default",()=>c,"metadata",0,{title:"Nagarkot Food Product Pvt Ltd | Ugna Ji Makhana",description:"Leading manufacturer and wholesaler of premium roasted flavoured makhana. Quality and health in every bite."}])}];
+
+//# sourceMappingURL=Documents_MINE_nagarkot-food_app_layout_tsx_1d3e0be8._.js.map

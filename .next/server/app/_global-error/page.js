@@ -1,0 +1,10 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_global-error/page.js")
+R.c("server/chunks/ssr/5f0d1_a1168a82._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__4f55c02d._.js")
+R.c("server/chunks/ssr/5f0d1_next_dist_5676bfa3._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__57dc1d53._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__eea8427e._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__dd8d82e0._.js")
+R.c("server/chunks/ssr/9132d_nagarkot-food__next-internal_server_app__global-error_page_actions_31c3036f.js")
+R.m(87086)
+module.exports=R.m(87086).exports

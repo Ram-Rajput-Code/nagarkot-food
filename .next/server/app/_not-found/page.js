@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/Documents_MINE_nagarkot-food_5462eff6._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__4f55c02d._.js")
+R.c("server/chunks/ssr/5f0d1_next_dist_esm_build_templates_app-page_66ab6a8b.js")
+R.c("server/chunks/ssr/[root-of-the-server]__57dc1d53._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__eea8427e._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__dd8d82e0._.js")
+R.c("server/chunks/ssr/Documents_MINE_nagarkot-food_app_layout_tsx_1d3e0be8._.js")
+R.c("server/chunks/ssr/5f0d1_next_dist_client_components_b8357340._.js")
+R.c("server/chunks/ssr/5f0d1_next_dist_client_components_builtin_forbidden_4c9caaa3.js")
+R.c("server/chunks/ssr/80b94_MINE_nagarkot-food__next-internal_server_app__not-found_page_actions_043c59ef.js")
+R.m(51751)
+module.exports=R.m(51751).exports
