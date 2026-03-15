@@ -1,0 +1,72 @@
+export const COMPANY_INFO = {
+  name: "Nagarkot Food Product Pvt Ltd",
+  brandName: "Ugna Ji",
+  directors: ["Sangam Agrawal", "Arun Kumar Agrawal"],
+  address: "Kh no 1110, gali no 18, rithala delhi 110085, india",
+  email: "sangam@nagarkotfood.in",
+  mobile: "+91 831 918 0429",
+  whatsapp: "918319180429",
+  tagline: "Premium Roasted Flavoured Makhana",
+  logo: "https://cdn.jsdelivr.net/gh/Ram-Rajput-Code/ugnaji-website-assets/images/NFPPLlogo.jpeg",
+  instagram: "https://www.instagram.com/ugnajiii?utm_source=qr&igsh=MWUyYTY4djJtOHlnOQ==",
+};
+
+export const PRODUCTS = [
+  {
+    id: "black-pepper",
+    name: "Black Pepper Makhana",
+    flavor: "Black Pepper",
+    color: "bg-blue-600",
+    textColor: "text-blue-600",
+    description: "Light, crunchy and healthy roasted makhana with a spicy kick of black pepper.",
+    image: "https://cdn.jsdelivr.net/gh/Ram-Rajput-Code/ugnaji-website-assets/images/UgnaMakhanaBlackPepper.jpeg",
+    features: ["Rich in iron", "Calcium", "Antioxidants", "Loaded with Protein"],
+  },
+  {
+    id: "garlic",
+    name: "Garlic Makhana",
+    flavor: "Garlic",
+    color: "bg-green-600",
+    textColor: "text-green-600",
+    description: "Perfectly roasted makhana infused with the aromatic and savory taste of garlic.",
+    image: "https://cdn.jsdelivr.net/gh/Ram-Rajput-Code/ugnaji-website-assets/images/UgnaMakhanaGarlic.jpeg",
+    features: ["100% Organic", "Pure and Natural", "Heart Healthy", "Low Calorie"],
+  },
+  {
+    id: "himalayan-salt",
+    name: "Himalayan Salt Makhana",
+    flavor: "Himalayan Salt",
+    color: "bg-purple-600",
+    textColor: "text-purple-600",
+    description: "Simple yet sophisticated, seasoned with pure Himalayan pink salt for a clean taste.",
+    image: "https://cdn.jsdelivr.net/gh/Ram-Rajput-Code/ugnaji-website-assets/images/UgnaMakhanaHimalayanSalt.jpeg",
+    features: ["Mineral Rich", "No Artificial Flavors", "Gluten Free", "Vegan Friendly"],
+  },
+  {
+    id: "peri-peri",
+    name: "Peri Peri Masala Makhana",
+    flavor: "Peri Peri Masala",
+    color: "bg-red-600",
+    textColor: "text-red-600",
+    description: "A fiery blend of spices for those who love a bold and tangy snacking experience.",
+    image: "https://cdn.jsdelivr.net/gh/Ram-Rajput-Code/ugnaji-website-assets/images/UgnaMakhanaPeriPeriMasala.jpeg",
+    features: ["Spicy & Tangy", "Zero Trans Fat", "High Fiber", "Nutritious Snack"],
+  },
+  {
+    id: "pudina",
+    name: "Pudina Makhana",
+    flavor: "Pudina",
+    color: "bg-emerald-600",
+    textColor: "text-emerald-600",
+    description: "Refreshing minty flavor combined with the crunch of roasted makhana.",
+    image: "https://cdn.jsdelivr.net/gh/Ram-Rajput-Code/ugnaji-website-assets/images/UgnaMakhanaPudina.jpeg",
+    features: ["Cooling Effect", "Digestive Benefits", "Natural Herbs", "Light Snack"],
+  },
+];
+
+export const CERTIFICATIONS = [
+  { name: "FSSAI", icon: "ShieldCheck" },
+  { name: "ISO 22000", icon: "Award" },
+  { name: "HACCP", icon: "CheckCircle" },
+  { name: "GMP", icon: "Factory" },
+];
